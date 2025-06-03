@@ -1,2 +1,2 @@
-# Emma Gies's Data Analyst Portfolio
+Data Analyst Portfolio - Emma Gies
 
