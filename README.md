@@ -1,2 +1,2 @@
-# portfolio
-Repository to track projects for Portfolio
+# Emma Gies's Data Analyst Portfolio
+
